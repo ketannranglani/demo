@@ -1,0 +1,101 @@
+EmployeeID,Name,Age,Gender,Department,Position,DateOfJoining,Salary,City,PerformanceScore
+9175,Steven Rodriguez,59,Non-binary,Marketing,Clerk,2022-06-20,110721,Michaelberg,8
+4267,Jose Diaz,46,Male,Finance,Analyst,2022-07-19,98807,Sarahtown,8
+1280,Alan Mercado,35,Male,Finance,Executive,2023-02-03,95651,Hicksborough,3
+7541,David Ryan,59,Non-binary,IT,Executive,2015-08-03,113976,South Jessicaburgh,7
+4151,Michael Sanford,26,Male,Marketing,Director,2020-07-02,71074,Port Rubenside,8
+5250,Lynn Gonzalez,31,Female,IT,Clerk,2016-11-09,41003,Danielleland,4
+5540,Katie Bartlett,31,Male,Operations,Clerk,2018-03-24,138070,West Craigport,6
+1771,David Drake,29,Female,IT,Executive,2015-05-22,121288,Briannamouth,3
+1334,David Shaw,41,Male,IT,Manager,2015-01-25,96706,South Toni,3
+3578,Barbara Wright,50,Female,IT,Manager,2017-04-15,120757,West Kevinfort,9
+1929,Nancy Hall,35,Female,Marketing,Analyst,2020-09-27,85622,Aprilmouth,7
+5456,Angela Riley,58,Non-binary,Finance,Director,2017-02-04,83778,West Matthew,6
+4200,Willie Pearson,31,Female,HR,Director,2017-12-22,41626,East Alexa,7
+8785,Garrett Hale,50,Female,IT,Director,2018-11-15,112112,Hallchester,9
+2779,Jane Nash,45,Non-binary,Operations,Executive,2021-10-18,80300,Knightfort,9
+7581,Joshua Henderson,30,Female,HR,Executive,2024-04-28,104546,East Brian,6
+8872,Victoria White,57,Female,Operations,Manager,2023-04-27,138763,Millerbury,2
+7576,Amanda Peck,31,Male,Finance,Executive,2023-03-15,138803,South Davidmouth,8
+5843,Edward Mullins,41,Non-binary,Operations,Director,2019-11-13,63552,North Oliviafurt,8
+9773,Joseph King,35,Non-binary,Operations,Manager,2023-07-26,59634,Colleenview,4
+3057,Kyle Gallegos,23,Non-binary,Operations,Manager,2018-10-31,52464,Justinstad,10
+1789,Jacqueline Hughes,46,Male,Finance,Director,2015-09-22,134773,South Timothy,2
+6365,Charles Ross,53,Non-binary,Finance,Clerk,2022-05-10,129731,East Mitchell,9
+1606,Donald Tran,24,Female,Finance,Director,2018-08-16,109264,New Christopher,4
+1415,Jamie Vance,48,Non-binary,Finance,Clerk,2023-02-01,111087,Rebeccachester,4
+8729,Paula Rodriguez,24,Non-binary,IT,Director,2024-08-24,86647,New George,8
+3150,Tanya Eaton,28,Male,Marketing,Executive,2017-11-21,73796,North Vanessatown,10
+5589,Nina Schmidt,31,Female,Marketing,Executive,2019-05-16,95310,Sharonhaven,8
+9749,Jack Bush,27,Male,Marketing,Executive,2017-04-16,122558,Thomasstad,9
+4113,Emily Brown,53,Male,HR,Manager,2023-09-22,69786,Lake Jamiehaven,7
+5857,Rodney Bernard,51,Non-binary,Marketing,Executive,2019-10-01,70829,Branchberg,1
+3759,Michael Parker,40,Male,Operations,Manager,2020-01-31,62196,West Kristen,7
+8076,Tracie Castro,30,Non-binary,Finance,Manager,2016-05-19,94943,Port Matthewbury,1
+2859,Jeanette Lynch,32,Non-binary,Finance,Executive,2024-01-06,61468,Estradachester,5
+5658,Steve Caldwell,22,Male,HR,Executive,2015-10-21,56020,Nelsonbury,4
+8196,Lonnie Hernandez,58,Non-binary,IT,Manager,2020-09-08,133099,Justintown,9
+2916,Audrey Meyer,26,Male,Marketing,Manager,2024-04-05,112854,Jodihaven,5
+9604,Eric Webb,54,Female,Finance,Clerk,2016-06-27,100668,Kristophermouth,10
+8319,Scott Moore,42,Non-binary,Finance,Manager,2015-12-24,119449,Port Matthew,8
+6903,Kurt Bradley,60,Female,Operations,Executive,2024-07-20,120422,Lisashire,2
+5919,Amber Glass,59,Non-binary,HR,Analyst,2015-04-30,125308,Valenciaview,1
+1953,Willie Kidd,24,Female,Marketing,Executive,2018-10-18,70320,Jesusburgh,1
+8806,Kelly Herrera,58,Non-binary,Marketing,Manager,2024-08-12,128445,West Calvinmouth,8
+4479,Joseph Pierce,51,Male,Finance,Manager,2019-08-20,136931,South Dustin,2
+8284,Willie Moon,50,Non-binary,HR,Director,2015-02-26,60314,East Reneemouth,5
+2045,Ricky Jimenez,51,Male,IT,Executive,2022-10-06,65001,Phillipston,4
+5549,Nicole Joyce,41,Non-binary,IT,Executive,2023-01-27,51098,Port Markburgh,9
+3242,Krista Frank,50,Non-binary,Finance,Manager,2018-05-24,146114,New Danielview,9
+2625,Jasmine Garcia,38,Non-binary,HR,Director,2016-01-05,119139,Ashleestad,1
+9530,Bradley Barnett,42,Female,Finance,Clerk,2019-09-14,125386,East Juliebury,10
+2427,Jennifer Giles,42,Female,Finance,Executive,2024-03-19,104083,Samanthahaven,1
+1113,Shawna Miller,22,Male,HR,Clerk,2021-06-23,141822,Millerside,4
+8692,Sharon Walker,24,Non-binary,HR,Director,2015-02-27,139391,Georgehaven,3
+1930,Richard Hanson,55,Non-binary,Marketing,Manager,2022-05-25,74901,Smithberg,2
+6305,Cody Richardson,43,Male,Marketing,Executive,2022-10-05,82342,New Sandra,6
+5711,Mrs. Tonya Gordon,42,Female,Marketing,Clerk,2016-02-14,60478,Rodriguezfort,1
+4345,Terri Smith,54,Male,IT,Director,2015-01-17,85179,North Carlosland,10
+9112,Laura Andrews,53,Male,Finance,Clerk,2020-08-17,72571,Antonioton,2
+3527,Janet Bell,45,Female,IT,Director,2016-12-18,41906,Port Michele,10
+7193,Aaron Gutierrez,53,Non-binary,HR,Director,2018-09-06,124360,Lake Sheilastad,1
+6804,Nicole Harvey,43,Male,IT,Director,2017-05-10,33622,Port Cynthia,8
+6186,Billy Chang,55,Female,IT,Director,2024-07-08,60303,Jesseberg,9
+7619,James Edwards,35,Male,Operations,Manager,2017-02-28,115847,East Rachelland,4
+3826,James Barber,33,Female,Finance,Manager,2022-09-04,135163,East John,6
+4616,Robert Haynes,50,Male,HR,Analyst,2024-03-11,107953,Raymondborough,3
+1724,Charles Turner,58,Female,HR,Analyst,2023-03-24,73601,South Brian,6
+4237,Maria Payne,52,Non-binary,HR,Director,2019-02-27,49261,Port Michaelburgh,9
+8276,Beverly Burgess,60,Male,HR,Executive,2024-01-08,79776,East Travisfurt,3
+2481,Alan Gonzales,27,Female,IT,Executive,2020-05-14,109512,New Jasonside,4
+8001,Holly Oneal,25,Male,IT,Analyst,2019-10-02,134730,North Meganmouth,8
+2026,Scott Gray,57,Male,HR,Manager,2018-07-13,128036,South Michele,7
+8781,Nicole Erickson,56,Male,Operations,Director,2023-05-21,126590,Zunigamouth,4
+1407,Mark Barajas,51,Non-binary,HR,Executive,2015-04-15,110201,West Brianhaven,5
+5754,Johnny Smith,39,Male,HR,Executive,2020-06-02,116078,Zacharyside,1
+6177,Dominique Lane,53,Female,Operations,Clerk,2024-05-18,138725,Youngville,8
+3454,Dale Stark,46,Male,HR,Director,2020-02-17,53393,Lake Andreashire,9
+2447,Matthew Williams,32,Non-binary,Finance,Clerk,2020-02-02,73300,East Michaeltown,5
+5544,John Taylor,41,Non-binary,Finance,Clerk,2022-02-14,119405,West Christineshire,2
+4340,Kevin Johnson,57,Female,Finance,Manager,2021-05-04,40755,Williamston,10
+8443,Brandy Stanley,53,Non-binary,HR,Clerk,2022-03-11,62593,Johnsonview,6
+9614,Adam Kirby,52,Male,Operations,Clerk,2023-08-09,131807,Millerland,7
+5777,Candice Thompson,28,Female,Marketing,Manager,2024-02-13,51355,East Hannah,8
+7709,Emily Lewis,30,Female,Marketing,Executive,2021-10-13,75863,East Julieport,10
+6738,Derek Wright,45,Female,IT,Analyst,2016-07-31,148713,Jonestown,7
+7506,Brittany Abbott,41,Non-binary,Marketing,Director,2021-01-20,41270,Lake Timothy,7
+4710,Diana Thompson,47,Non-binary,Operations,Analyst,2024-04-09,58692,West Patrick,7
+8939,Amanda Jensen,40,Non-binary,IT,Manager,2016-02-21,37161,Wallerville,2
+6092,Diana Gilmore,24,Female,IT,Manager,2015-04-01,52420,Williamsberg,9
+6165,Kimberly Smith,26,Female,Finance,Clerk,2024-10-07,95304,Bowmanburgh,10
+8832,Justin Huang,45,Non-binary,Finance,Director,2020-01-02,48402,South Tammy,8
+5232,Mark Brooks,40,Female,Marketing,Clerk,2020-10-16,103084,East Chris,9
+8490,Rebecca Larson,22,Female,Operations,Director,2018-10-15,51064,Robertshire,7
+3680,Shannon Hernandez,35,Female,HR,Executive,2016-07-23,35456,Howellfort,6
+2956,Daniel Pearson,37,Non-binary,Operations,Executive,2016-05-03,34605,Marietown,7
+4184,Joshua Carroll,32,Male,Operations,Executive,2017-03-11,84320,East Laura,5
+7769,Nicholas Hoover,47,Non-binary,Finance,Executive,2020-12-05,43479,Port Richardland,6
+5309,Brian Stewart,23,Female,Marketing,Director,2014-12-19,34770,Edwardbury,9
+4924,Paul Gilbert,37,Female,IT,Analyst,2019-09-18,55759,Lake Edgar,6
+5183,Donald Green,50,Male,IT,Clerk,2017-02-24,66779,North Derekton,7
+2941,Sherry Reynolds,36,Female,Finance,Director,2019-08-10,58967,Port Janet,9
